@@ -1,3 +1,5 @@
+## Meet Incube8, a platform aimed to help student startups build equity at any scale!
+
 ## Inspiration
 Why should a company need to be big to IPO? What about student startups who need to raise equity quickly? The space of investing in startups to this day is quite limited, as the opportunities tend to only be available to those in the know. We aim to let any startup raise equity at any valuation they seem fit, opening the potential investor pool to literally anyone with a crypto wallet and internet access. 
 ## What it does
