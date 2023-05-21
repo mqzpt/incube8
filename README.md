@@ -14,3 +14,5 @@ We are proud to have created a full-stack app that actually connects to the bloc
 We learned that blockchain integration isn't as scary and confusing as it may seem, and there does appear to be lots of great documentation on the subject.
 ## What's next for Incube8
 The next step for this project would be to figure out a way to allow tokenized equity of a company or their assets. This is particularly hard as there a number of factors consider, some of which include investor fraud, dilution risk, and how to securely integrate multiple chains into the same app (Axelar looks like a good solution here but we didn't make it that far). There should also be more features on the app, such as a way to connect with other startup founders, and perhaps even a way for startup creators to host presentations on their products on services. 
+## Testing
+Using vite for local env. Install dependencies with npm install, and use npm run dev to load local host. Message or email for help if needed!
